@@ -1,10 +1,10 @@
-# Hellooo👋, 
+# Hellooo👋 
 
 Je suis Aleksander Siebert et je suis actuellement **Growth Marketer @ Mondassur | Inbound, Automation & IA | Data, Claude, n8n & GEO**
 
 J'aime apprendre de nouvelles choses et j'utilise l'IA comme une véritable infrastructure de travail. Claude pour la production et la réflexion, n8n pour les workflows qui tournent en production, des Skills avec mes documents de contexte et des MCPs connectés à mes outils quotidiens. En bref : je construis des systèmes qui font le travail !
 
-Mon objectif : évoluer et construire l'avenir du **AI-native Growth** (ou Growth Automation) en apprenant vite, en expérimentant en continu, et en documentant ouvertement ce que je découvre avec vous !
+Mon objectif : évoluer et construire l'avenir du **AI-native Growth** (ou AI Growth) en apprenant vite, en expérimentant en continu, et en documentant ouvertement ce que je découvre avec vous !
 
 ### 📊 GitHub Stats
 
@@ -42,7 +42,7 @@ En bêta, ce projet vise à partager librement des compétences techniques IA de
 
 #### 🐙 [Growth with Claude](#)
 
-**Une newsletter hebdomadaire sur l'IA appliquée au Growth.**
+**Une newsletter hebdomadaire sur l'IA.**
 J'y documente ce que j'apprends, ce qui marche et ce qui casse. Lue par plus de 200 abonnés, dont des profils C-Level, c'est l'endroit où je partage mes expérimentations pour construire mon expertise au quotidien.
 
 **Key Features:**
