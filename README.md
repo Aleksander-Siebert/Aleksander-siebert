@@ -6,6 +6,8 @@ J'aime apprendre de nouvelles choses et j'utilise l'IA comme une véritable infr
 
 Mon objectif : évoluer et construire l'avenir du **AI-native Growth** (ou AI Growth) en apprenant vite, en expérimentant en continu, et en documentant ouvertement ce que je découvre avec vous !
 
+<img width="1584" height="396" alt="Copie de Banner linkedin" src="https://github.com/user-attachments/assets/1c47cce5-4dd1-4ffb-9e11-1e4d55f5ad36" />
+
 ### 📊 GitHub Stats
 
 <div align="center">
