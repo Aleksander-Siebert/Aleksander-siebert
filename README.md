@@ -8,14 +8,6 @@ Mon objectif : évoluer et construire l'avenir du **AI-native Growth** (ou AI Gr
 
 <img width="1584" height="396" alt="Copie de Banner linkedin" src="https://github.com/user-attachments/assets/1c47cce5-4dd1-4ffb-9e11-1e4d55f5ad36" />
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aleksander-Siebert&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksander-Siebert&layout=compact&theme=tokyonight" width="49%" />
-</div>
-
----
 
 ### 📈 Track Record & Impact
 
