@@ -47,6 +47,16 @@ J'y documente ce que j'apprends, ce qui marche et ce qui casse. Lue par plus de 
 
 [View on LinkedIn →](https://www.linkedin.com/newsletters/growth-with-claude%F0%9F%90%99-7443262733011189760/)
 
+#### 🥂 The French Italo Club [Live]
+**Un site web complet développé en "vibe coding" pour la communauté franco-italienne fondée par mon amie Silvia.** 
+Alors que leur acquisition dépendait exclusivement de TikTok et Meta, j'ai proposé et construit cette brique finale pour consolider leur indépendance numérique. Le site sert de vitrine principale pour leurs rencontres hebdomadaires ("The Circle") et évolue en continu. Réalisé de A à Z en moins d'une semaine.
+
+**Key Features:**
+*⚡ **Vibe Coding Stack** : Développement ultra-rapide propulsé par Claude + Visual studio code, Lovable, GitHub et déployé sur Vercel.
+* 🏗️ **Owned Media** : Création d'un canal d'acquisition indépendant pour s'affranchir des algorithmes des réseaux sociaux.
+* 🔍 **SEO & GEO Ready** : Architecture optimisée pour la recherche classique et générative, préparée pour l'implémentation d'un Headless CMS.
+
+[Voir le site →](https://thefrenchitaloclub.vercel.app/)
 
 #### 🌲 [Taika.org](#) [En réflexion]
 
